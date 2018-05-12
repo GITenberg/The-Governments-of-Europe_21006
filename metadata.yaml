@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1088'
     url: http://www.gutenberg.org/2009/agents/1088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21006#The-Governments-of-Europe
 gutenberg_issued: '2007-04-07'
 gutenberg_type: Text
 identifiers:
